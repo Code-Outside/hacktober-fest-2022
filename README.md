@@ -2,6 +2,8 @@
 
 Just fork it and add a any algorithm / progarm to contribute for hacktober fest and send a Pull Request!
 
+note :- first make a issue wait for assigning then work on the pr.
+
 ### Get yourself free goodies by just writing a hello world!
 
 Say hi to the world in any language of your choice!
