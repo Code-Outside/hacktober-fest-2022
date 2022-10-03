@@ -1,2 +1,2 @@
 # hacktober-fest-2022
-Get Started with your open source
+Get Started with your open source journey
