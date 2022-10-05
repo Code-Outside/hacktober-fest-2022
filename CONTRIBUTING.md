@@ -4,7 +4,6 @@
 ### Contribute in public/Profile
 
 - [Git](https://git-scm.com/) 
-- [JSON](https://www.json.org/json-en.html)
 
 ### Contribute in Documents
 
