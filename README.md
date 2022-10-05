@@ -45,6 +45,54 @@ as you can and star this project to help as many people in opensource as you can
 
 <br/>
 
+## Basic git commands: scroll:
+
+### 1. Clone the repository
+
+Open a terminal and run the following git command:
+
+```
+git clone "url of the repo you want to clone"
+```
+
+### 2. Create a branch
+
+Switch to the repository directory on your computer (if you are not there):
+
+Now create a branch using `git switch` command:
+
+```
+git switch -c branch-name
+```
+Replace branch-name to the branch name of your choice.
+
+### 3. Make necessary changes and commit
+
+Do the changes you want to make in the project.
+
+Add those changes to the branch you just created using the `git add` command:
+
+```
+git add file-name
+```
+Replace file-name with name of the file in which you made changes.
+
+Now commit those changes using the `git commit` command:
+
+```
+git commit -m "Enter the message of your choice"
+```
+### 4. Push changes to GitHub
+
+Push your changes using the command `git push`:
+
+```
+git push origin -u your-branch-name
+```
+
+replacing `your-branch-name` with the name of the branch you created earlier.
+
+
 ## Connect us on 🔗
 
 [![youtube](https://img.shields.io/badge/youtube-fff?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UCxsMWEhnzCy85UDsxir66Yw)
