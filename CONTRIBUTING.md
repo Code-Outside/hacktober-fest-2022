@@ -27,7 +27,7 @@
 
 ## ⭐ HOW TO MAKE A PULL REQUEST:
 
-**1.** Start by making a Fork of the [**LinkFree**](https://github.com/EddieHubCommunity/LinkFree) repository. Click on the <a href="https://github.com/EddieHubCommunity/LinkFree/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a>Fork symbol at the top right corner.
+**1.** Start by making a Fork of the **Code-Outside** Fork symbol at the top right corner.
 
 **2.** Clone your new fork of the repository in the terminal/CLI on your computer with the following command:
 
@@ -35,57 +35,50 @@
 git clone https://github.com/<your-github-username>/Code-Outside
 ```
 
-**3.** Navigate to the newly created LinkFree project directory:
+**3.** Navigate to the newly created Code-Outside project directory:
 
 ```bash
 cd Code-Outside
+
 ```
+**4.** Make your changes to the source code.
 
-**7.** Make your changes to the source code.
-
-**8.** Stage your changes:
-
-⚠️ **Make sure** not to commit `package.json` or `package-lock.json` file
-
-⚠️ **Make sure** not to run the commands `git add .` or `git add *`
-
-> Instead, stage your changes for each file/folder
->
-> By using public path it means it will add all files and folders under that folder, it is better to be specific
-
-```bash
-git add public
-```
-
-_or_
+**5.** Stage your changes:
 
 ```bash
 git add "<files_you_have_changed>"
 ```
+_or_
 
-**9.** Commit your changes:
+```bash
+git add .
+```
+
+**6.** Commit your changes:
 
 ```bash
 git commit -m "<your_commit_message>"
 ```
 
-**10.** Push your local commits to the remote repository:
+**7.** Push your local commits to the remote repository:
 
 ```bash
 git push origin YourBranchName
 ```
 
-**11.** Create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)!
+**8.** Create branch
 
-**12.** **Congratulations!** You've made your first contribution to [**Code-Outside**](https://github.com/EddieHubCommunity/LinkFree/graphs/contributors)! 🙌🏼
+**9.** Create a Pull Request
 
-**_:trophy: After this, the maintainers will review the PR and will merge it if it helps move the LinkFree project forward. Otherwise, it will be given constructive feedback and suggestions for the changes needed to add the PR to the codebase._**
+**10.** **Congratulations!** You've made your first contribution to **Code-Outside** 🙌🏼
+
+**_:trophy: After this, the maintainers will review the PR and will merge it if it helps move the Code Outside project forward.**
 
 ---
 
 
 ## 💥 Issues
 
-In order to discuss changes, you are welcome to [open an issue](https://github.com/Code-Outside/hacktober-fest-2022/issues/new/choose) about what you would like to contribute. Enhancements are always encouraged and appreciated.
+In order to discuss changes, you are welcome to [open an issue](https://github.com/Code-Outside/hacktober-fest-2022/issues) about what you would like to contribute. Enhancements are always encouraged and appreciated.
 
 ## All the best! 🥇
