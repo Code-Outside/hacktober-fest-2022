@@ -98,7 +98,7 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 [![youtube](https://img.shields.io/badge/youtube-fff?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UCxsMWEhnzCy85UDsxir66Yw)
 [![instagram](https://img.shields.io/badge/instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/code.outside/)
 
-
-
+## Hall of Fame
+[![Contributors](https://contrib.rocks/image?repo=Code-Outside/hacktober-fest-2022)](https://github.com/Code-Outside/hacktober-fest-2022/graphs/contributors)
 
 # End
